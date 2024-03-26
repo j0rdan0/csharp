@@ -1,0 +1,15 @@
+/Users/j0rdan0/programming/csharp/palindrome/bin/Debug/net8.0/palindrome
+/Users/j0rdan0/programming/csharp/palindrome/bin/Debug/net8.0/palindrome.deps.json
+/Users/j0rdan0/programming/csharp/palindrome/bin/Debug/net8.0/palindrome.runtimeconfig.json
+/Users/j0rdan0/programming/csharp/palindrome/bin/Debug/net8.0/palindrome.dll
+/Users/j0rdan0/programming/csharp/palindrome/bin/Debug/net8.0/palindrome.pdb
+/Users/j0rdan0/programming/csharp/palindrome/obj/Debug/net8.0/palindrome.GeneratedMSBuildEditorConfig.editorconfig
+/Users/j0rdan0/programming/csharp/palindrome/obj/Debug/net8.0/palindrome.AssemblyInfoInputs.cache
+/Users/j0rdan0/programming/csharp/palindrome/obj/Debug/net8.0/palindrome.AssemblyInfo.cs
+/Users/j0rdan0/programming/csharp/palindrome/obj/Debug/net8.0/palindrome.csproj.CoreCompileInputs.cache
+/Users/j0rdan0/programming/csharp/palindrome/obj/Debug/net8.0/palindrome.sourcelink.json
+/Users/j0rdan0/programming/csharp/palindrome/obj/Debug/net8.0/palindrome.dll
+/Users/j0rdan0/programming/csharp/palindrome/obj/Debug/net8.0/refint/palindrome.dll
+/Users/j0rdan0/programming/csharp/palindrome/obj/Debug/net8.0/palindrome.pdb
+/Users/j0rdan0/programming/csharp/palindrome/obj/Debug/net8.0/palindrome.genruntimeconfig.cache
+/Users/j0rdan0/programming/csharp/palindrome/obj/Debug/net8.0/ref/palindrome.dll
